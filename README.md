@@ -1,6 +1,4 @@
 
-# 🛒 Hibernate Many-to-One Relationship  
-## Customer & Order Example
 
 This project demonstrates a **Many-to-One relationship** using Hibernate (JPA) between **Order** and **Customer** entities.
 
